@@ -1,0 +1,12 @@
+/* custom-styles.css */
+body {
+    background-color: #cb2d2d;
+    font-family: 'Arial', sans-serif;
+}
+
+.redoc-container {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+/* Add more custom styles as needed */
